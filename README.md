@@ -30,7 +30,7 @@ This project is a virtual representation of a classroom using **A-Frame**, a fra
 ## Setup Instructions
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/project.git
+   git clone https://github.com/Endritx/Project.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -42,9 +42,5 @@ This project is a virtual representation of a classroom using **A-Frame**, a fra
    vercel
    ```
 
-## Live Demo
-You can view the live project here: [Vercel Deployment Link](https://your-vercel-url.com)
 
-## License
-This project is open-source and available under the MIT License.
 
