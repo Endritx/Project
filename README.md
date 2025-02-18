@@ -30,7 +30,7 @@ This project is a virtual representation of a classroom using **A-Frame**, a fra
 ## Setup Instructions
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Endritx/Project.git
+   git clone https://github.com/Endritx/Virtual-Classroom.git
    ```
 2. Navigate to the project folder:
    ```sh
